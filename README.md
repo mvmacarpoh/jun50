@@ -1,0 +1,2 @@
+# jun50
+JapaneseScratchWikiのJun50作成のひらがな化Bot
